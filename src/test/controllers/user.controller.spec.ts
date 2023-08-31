@@ -29,8 +29,8 @@ describe('User Controller', () => {
         city: 'gianyar',
         province: 'bali',
         telephoneNumber: '1234567890',
-        emailAddress: 'susahbanget@example.com',
-        password: 'mohonmaafsayandangerti',
+        emailAddress: 'akuzoro@mail.com',
+        password: 'botolmizon',
       };
 
       const response = await request(app)
